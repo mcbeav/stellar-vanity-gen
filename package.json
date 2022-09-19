@@ -1,0 +1,27 @@
+{
+  "name": "stellar-vanity-generator",
+  "version": "1.0.0",
+  "description": "Generate A Vanity Wallet Address For The Stellar Blockchain",
+  "main": "search.js",
+  "keywords": [
+    "Stellar",
+    "Stellar Lumens",
+    "XLM",
+    "Vanity Address",
+    "Crypto",
+    "Cryptocurrency"
+  ],
+  "author": "mcbeav",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^9.4.0",
+    "minimist": "^1.2.6",
+    "np": "^7.6.2",
+    "stellar-sdk": "^10.3.0",
+    "xo": "^0.52.3"
+  },
+  "xo": {
+    "space": true
+  }
+}
